@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# PyCharm files
+/home/antonio/Documents/marl/.idea
